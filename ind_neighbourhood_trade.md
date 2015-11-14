@@ -2,27 +2,31 @@
 ========================================================
 
 
-The current dispensation is facing a lot of criticism on the neighbourhood policy. A quick look at the trade data between India and the neighbouring countries
+The current dispensation is facing a lot of criticism on the neighbourhood policy. A quick look at the trade data between India and the neighbouring countries.
 
-![Trade with Afghanistan](https://gulgit.github.com/fp/images/Ind_Af_Trade_Aug2015.png)
+![Ind-Af](https://github.com/gulgit/gulgit.github.io/blob/master/images/Ind_Af_Trade_Aug2015.png)
 
-![Trade with Bangladesh](https://gulgit.github.com/fp/images/Ind_BD_Trade_Aug2015.png)
+![Ind-BD](https://github.com/gulgit/gulgit.github.io/blob/master/images/Ind_BD_Trade_Aug2015.png)
 
-![Trade with Bhutan](https://gulgit.github.com/fp/images/Ind_Bhutan_Trade_Aug2015.png)
+![Ind-Bhu](https://github.com/gulgit/gulgit.github.io/blob/master/images/Ind_Bhutan_Trade_Aug2015.png)
 
-![Trade with China](https://gulgit.github.com/fp/images/Ind_China_Trade_Aug2015.png)
+![Ind-Ch](https://github.com/gulgit/gulgit.github.io/blob/master/images/Ind_China_Trade_Aug2015.png)
 
-![Trade with Hong Kong](https://gulgit.github.com/fp/images/Ind_HK_Trade_Aug2015.png)
+![Ind-HK](https://github.com/gulgit/gulgit.github.io/blob/master/images/Ind_HK_Trade_Aug2015.png)
 
-![Trade with Maldivies](https://gulgit.github.com/fp/images/Ind_Maldives_Trade_Aug2015.png)
+![Ind-Mal](https://github.com/gulgit/gulgit.github.io/blob/master/images/Ind_Maldives_Trade_Aug2015.png)
 
-![Trade with Myanmar](https://gulgit.github.com/fp/images/Ind_Myanmar_Trade_Aug2015.png)
+![Ind-My](https://github.com/gulgit/gulgit.github.io/blob/master/images/Ind_Myanmar_Trade_Aug2015.png)
 
-![Trade with Nepal](https://gulgit.github.com/fp/images/Ind_Nepal_Trade_Aug2015.png)
+![Ind-Np](https://github.com/gulgit/gulgit.github.io/blob/master/images/Ind_Nepal_Trade_Aug2015.png)
 
-![Trade with Pakistan](https://gulgit.github.com/fp/images/Ind_Pak_Trade_Aug2015.png)
+![Ind-Pak](https://github.com/gulgit/gulgit.github.io/blob/master/images/Ind_Pak_Trade_Aug2015.png)
 
-![Trade with Balance of Trade with neighbours](https://gulgit.github.com/fp/images/Ind_BOT_AUg2015.jpeg)
+![Ind-SL](https://github.com/gulgit/gulgit.github.io/blob/master/images/Ind_SL_Trade_Aug2015.png)
 
-![Trade with Balance of Trade with neighbours excluding China and Hong Kong](https://gulgit.github.com/fp/images/Ind_BOT_AUg2015.jpeg)
+India's Balance of Trade with all neighbouring countries:
+![Ind-Bot](https://github.com/gulgit/gulgit.github.io/blob/master/images/Ind_BOT_AUg2015.jpeg)
+
+India's Balance of Trade with neighbouring countries without China and Hong Kong:
+![Ind-WCHHK](https://github.com/gulgit/gulgit.github.io/blob/master/images/Ind_BOT_EXCHHK_Aug2015.jpeg)
 
