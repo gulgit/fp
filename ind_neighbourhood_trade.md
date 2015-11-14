@@ -24,9 +24,9 @@ The current dispensation is facing a lot of criticism on the neighbourhood polic
 
 ![Ind-SL](https://github.com/gulgit/gulgit.github.io/blob/master/images/Ind_SL_Trade_Aug2015.png)
 
-India's Balance of Trade with all neighbouring countries:
+**India's Balance of Trade with all neighbouring countries:**
 ![Ind-Bot](https://github.com/gulgit/gulgit.github.io/blob/master/images/Ind_BOT_AUg2015.jpeg)
 
-India's Balance of Trade with neighbouring countries without China and Hong Kong:
+**India's Balance of Trade with neighbouring countries without China and Hong Kong:**
 ![Ind-WCHHK](https://github.com/gulgit/gulgit.github.io/blob/master/images/Ind_BOT_EXCHHK_Aug2015.jpeg)
 
